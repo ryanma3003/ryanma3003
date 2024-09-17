@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ryanma3003
-- 👀 I’m interested in fullstack web engineer
-- 🌱 I’m currently learning javascript and go
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in fullstack engineer
+- 📫 How to reach me ryan.martin3003@gmail.com
 
 <!---
 ryanma3003/ryanma3003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
