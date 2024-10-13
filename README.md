@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ryanma3003
-- 👀 I’m interested in fullstack engineer
+- 👀 I’m interested in software engineer
 - 📫 How to reach me ryan.martin3003@gmail.com
 
 <!---
